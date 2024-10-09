@@ -75,7 +75,7 @@ So you have to wipe the playerdata in your server.
 4. Restart the bot.
 
 **Lock the bot somewhere as soon as possible!**  
-**And change the bot's gamemode to `Creative` to not die.**
+**And change the bot's gamemode to `servival` to not die.**
 </details>
 
 <hr/>
